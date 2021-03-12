@@ -10,6 +10,6 @@ Sumário de atualizações da rederush, suporte e denuncia de bugs // Copyright 
 
 
 
-AntiCheat: RE //
+AntiCheat: RE e BVF Dora //
 Mapas (mundos): Fragili, Felipe (751ms) e FlexaLOL
 //Server no geral: FlexaLOL
